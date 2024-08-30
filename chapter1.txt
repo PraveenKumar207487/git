@@ -1,2 +1,6 @@
 hi
+<<<<<<< HEAD
 welcome
+=======
+this is praveen kumar
+>>>>>>> e88b415a6a0d77bc429d09061b7b048e22f77ba5
